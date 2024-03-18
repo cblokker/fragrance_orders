@@ -1,0 +1,6 @@
+[submodule "quickstart-react"]
+	path = quickstart-react
+	url = https://github.com/cblokker/quickstart-react.git
+[submodule "monday-fragrance-api"]
+	path = monday-fragrance-api
+	url = https://github.com/cblokker/fragrance_api.git
